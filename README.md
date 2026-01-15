@@ -1,5 +1,7 @@
 # Partage-de-fichiers-Windows-
 
+A TERMINER
+
 ---
 
 ## Ton serveur de fichiers est correctement installé et configuré
